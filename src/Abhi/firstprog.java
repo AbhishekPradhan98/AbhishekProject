@@ -6,6 +6,7 @@ public class firstprog {
 		// TODO Auto-generated method stub
          System.out.println("this is first program");
          System.out.println("this is secon program");
+         System.out.println("this is third program");
 	}
 
 }
